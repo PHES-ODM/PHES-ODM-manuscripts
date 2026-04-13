@@ -1,0 +1,6 @@
+*.pdf
+*.tex
+*_files/
+.quarto/
+.DS_Store
+.Rproj.user/
