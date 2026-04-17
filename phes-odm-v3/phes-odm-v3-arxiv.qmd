@@ -2,7 +2,7 @@
 title: "The Public Health and Environmental Surveillance Open Data Model (PHES-ODM) version 3: an open relational data model and interoperability framework for wastewater surveillance"
 author:
   - name: Mathew Thomson
-    # orcid: TODO
+    orcid: 0000-0002-8155-3840
     affiliations:
       - name: Ottawa Hospital Research Institute, University of Ottawa
         city: Ottawa, ON
